@@ -1,0 +1,15 @@
+data/train.txt
+data/train.bin
+data/tokenizer_train.txt
+data/datasets/
+pretrained/
+checkpoints/
+uploads/
+chroma_db/
+frontend/node_modules/
+frontend/dist/
+backend/__pycache__/
+**/__pycache__/
+**/*.pyc
+*.db
+.env

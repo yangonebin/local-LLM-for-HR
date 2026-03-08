@@ -1,0 +1,2 @@
+frontend:build:cd /mnt/c/Users/gksql/Desktop/llm/frontend && npm run build
+frontend:tsc:cd /mnt/c/Users/gksql/Desktop/llm/frontend && npx tsc --project tsconfig.app.json --noEmit

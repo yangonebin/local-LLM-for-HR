@@ -1,0 +1,9 @@
+frontend/node_modules
+frontend/dist
+**/__pycache__
+**/*.pyc
+data/train.txt
+data/tokenizer_train.txt
+.git
+.claude
+.tldr
